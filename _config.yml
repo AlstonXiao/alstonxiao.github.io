@@ -12,9 +12,9 @@ title                    : "Yan's Homepage"
 title_separator          : "-"
 name                     : &name "Yan Xiao"
 description              : &description "personal website"
-url                      : https://yanxiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alstonxiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AlstonXiao/yanxiao.github.io"
+repository               : "AlstonXiao/alstonxiao.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
